@@ -1,0 +1,6 @@
+c:\users\rk\documents\visual studio 2013\Projects\CalProg\CalProg\bin\Debug\CalProg.exe.config
+c:\users\rk\documents\visual studio 2013\Projects\CalProg\CalProg\obj\Debug\CalProg.csprojResolveAssemblyReference.cache
+c:\users\rk\documents\visual studio 2013\Projects\CalProg\CalProg\bin\Debug\CalProg.exe
+c:\users\rk\documents\visual studio 2013\Projects\CalProg\CalProg\bin\Debug\CalProg.pdb
+c:\users\rk\documents\visual studio 2013\Projects\CalProg\CalProg\obj\Debug\CalProg.exe
+c:\users\rk\documents\visual studio 2013\Projects\CalProg\CalProg\obj\Debug\CalProg.pdb
